@@ -6,24 +6,24 @@ const Resume = ({ data }) => {
     var education = data.education.map(function (education) {
       return (
         <div key={education.school}>
-          <h3 className="school">{education.school}</h3>
+          <h3>{education.school}</h3>
           <p className="info">
             {education.degree} <span>&bull;</span>
             <em className="date">{education.graduated}</em>
           </p>
-          <p className="descriptionss">{education.description}</p>
+          <p>{education.description}</p>
         </div>
       );
     });
     var work = data.work.map(function (work) {
       return (
         <div key={work.company}>
-          <h3 className="school">{work.company}</h3>
+          <h3>{work.company}</h3>
           <p className="info">
             {work.title}
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
-          <p className="descriptionss">{work.description}</p>
+          <p>{work.description}</p>
         </div>
       );
     });
@@ -40,9 +40,9 @@ const Resume = ({ data }) => {
 
   return (
     <section id="resume">
-      <div className="row education edutop">
+      <div className="row education">
         <div className="three columns header-col">
-          <h1>
+          <h1 >
             <span>Education</span>
           </h1>
         </div>
@@ -72,7 +72,7 @@ const Resume = ({ data }) => {
         </div>
 
         <div className="nine columns main-col">
-          <p className="descriptionss">{skillmessage}</p>
+          <p>{skillmessage}</p>
 
           <div className="bars">
             <ul className="skills">{skills}</ul>

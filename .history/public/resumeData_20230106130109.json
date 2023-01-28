@@ -96,12 +96,6 @@
         "url": "https://stif.netlify.app/"
       },
       {
-        "title": "GOLDSTAR MUSIC   (React JS)",
-        "category": "Streaming Service",
-        "image": "goldstarmusic.png",
-        "url": "https://goldstarmusic.netlify.app/"
-      },
-      {
         "title": "Amazon Clone (React JS)",
         "category": "E-commerce",
         "image": "amazon.jpg",
@@ -128,6 +122,10 @@
       {
         "text": "Marius is absolutely amazing, his depth of knowledge really meant a lot to us... I would definitely recommend working with him",
         "user": "Jorge Floyd"
+      },
+      {
+        "text": "Working and Learning with Marius has been AWESOME, he makes learning so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Brenda Curtis"
       },
       {
         "text": "Working and Learning with Marius has been AWESOME, he makes learning so easy and approachable, you'll finally feel like you know what's going on!",

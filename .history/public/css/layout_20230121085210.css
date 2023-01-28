@@ -253,16 +253,9 @@ ul#nav li.current a { color: #f0cc00; }
 #resume a:hover, #resume a:focus { color: #ffffff; }
 
 .edutop {
-   margin-top: 2em;
+   color : margin-t
 }
 
-.school {
-   color :rgb(255, 230, 0);
-}
-
-.descriptionss {
-   color:rgb(255, 230, 0);
-}
 #resume h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;

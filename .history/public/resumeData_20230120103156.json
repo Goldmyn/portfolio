@@ -95,12 +95,12 @@
         "image": "stif.jpg",
         "url": "https://stif.netlify.app/"
       },
-      {
-        "title": "GOLDSTAR MUSIC   (React JS)",
-        "category": "Streaming Service",
-        "image": "goldstarmusic.png",
-        "url": "https://goldstarmusic.netlify.app/"
-      },
+    {
+      "title": "Amazon Clone (React JS)",
+      "category": "E-commerce",
+      "image": "amazon.jpg",
+      "url": "https://youtu.be/l2LjccayotA"
+    },
       {
         "title": "Amazon Clone (React JS)",
         "category": "E-commerce",

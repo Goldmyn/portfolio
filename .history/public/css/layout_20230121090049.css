@@ -261,7 +261,7 @@ ul#nav li.current a { color: #f0cc00; }
 }
 
 .descriptionss {
-   color:rgb(255, 230, 0);
+   color:rgba(255, 255, 255, .9)
 }
 #resume h1 {
    font: 18px/24px 'opensans-bold', sans-serif;

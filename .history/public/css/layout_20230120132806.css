@@ -238,7 +238,7 @@ ul#nav li.current a { color: #f0cc00; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background:  url(../images/skills-bg.png) no-repeat center center;
+   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -250,27 +250,15 @@ ul#nav li.current a { color: #f0cc00; }
 }
 
 #resume a, #resume a:visited  { color: #ffffff; }
-#resume a:hover, #resume a:focus { color: #ffffff; }
+#resume a:hover, #resume a:focus { color: #313131; }
 
-.edutop {
-   margin-top: 2em;
-}
-
-.school {
-   color :rgb(255, 230, 0);
-}
-
-.descriptionss {
-   color:rgb(255, 230, 0);
-}
 #resume h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
-   color: rgb(0, 255, 234);
 }
 #resume h1 span {
-   border-bottom: 3px solid rgb(0, 255, 234);
+   border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -323,7 +311,7 @@ ul#nav li.current a { color: #f0cc00; }
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: rgb(0, 255, 234);
+   color: #504040;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -337,7 +325,7 @@ ul#nav li.current a { color: #f0cc00; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #f3f028;
+  	background: #443e3e;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
