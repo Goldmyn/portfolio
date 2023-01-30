@@ -2,6 +2,8 @@ import React from "react";
 
 const Footer = ({ data }) => {
   if (data) {
+    var footer = data.url;
+
     var networks = data.social.map(function (network) {
       return (
         <li key={network.name}>
@@ -9,6 +11,13 @@ const Footer = ({ data }) => {
             <i className={network.className}></i>
           </a>
         </li>
+
+<li>
+Made by{" "}
+<a title="Marius" href={footer}>
+  Marius
+</a>
+</li>
       );
     });
   }
@@ -20,12 +29,7 @@ const Footer = ({ data }) => {
           <ul className="social-links">{networks}</ul>
 
           <ul className="copyright">
-            <li>
-              Made by{" "}
-              <a title="Marius" href="https://gymcode.netlify.app">
-                Marius
-              </a>
-            </li>
+            
           </ul>
         </div>
         <div id="go-top">

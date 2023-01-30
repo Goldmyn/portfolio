@@ -2,7 +2,10 @@ import React from "react";
 
 const Footer = ({ data }) => {
   if (data) {
+    
+    var footers = data.footerlink;
     var networks = data.social.map(function (network) {
+      
       return (
         <li key={network.name}>
           <a href={network.url}>
@@ -11,6 +14,8 @@ const Footer = ({ data }) => {
         </li>
       );
     });
+
+   
   }
 
   return (
@@ -20,9 +25,9 @@ const Footer = ({ data }) => {
           <ul className="social-links">{networks}</ul>
 
           <ul className="copyright">
-            <li>
+            <li key>
               Made by{" "}
-              <a title="Marius" href="https://gymcode.netlify.app">
+              <a title="Marius" href={footers.url}>
                 Marius
               </a>
             </li>

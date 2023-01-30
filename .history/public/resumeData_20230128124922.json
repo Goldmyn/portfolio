@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name": "Marius Chukwuebuka Nwokolo",
+    "occupation": "CEO of GymCode",
+    "description": "I GymCode, and breathe React",
+    "image": "profilepic.jpg",
+    "bio": " Hi there! I am Marius! You might also know me as Goldmyn. I've been coding for over a year now. As a Full Stack developer I've worked with clients to help build & scale their businesses. I realized i had a passion for problem solving and innovation while helping people pursue their dreams. With this passion, I am training  developers across the globe. Through live coaching sessions on Skype or Zoom demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world with GymCode.",
+    "contactmessage": "Get in touch with me to be a part of GymCode!",
+    "email": "mariusnwokolo24@@gmail.com",
+    "phone": "+234 8103736627",
+    "address": {
+      "street": "123 Dev Lane",
+      "city": "Lagos",
+      "state": "Devosphere",
+      "zip": "WEB3 DEV"
+    },
+    "website": "https://mariusnwokolo.netlify.app/",
+    "resumedownload": "https://drive.google.com/file/d/1hLhmOsL913viWGqtlMJiL2SaBXHCr_7P/view",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCexYFA_ma-EMuYhtQ-Ucw8g",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/marius-nwokolo-gymcode/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Goldmyn",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/goldmyngram/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/officialgoldmyn",
+        "className": "fa fa-facebook"
+      }
+      
+      
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Sichuan University Yibin. - China",
+        "degree": "Degree, Chinese Language",
+        "graduated": "October 2019",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "GymCode",
+        "title": "Founder and CEO",
+        "years": "December 2019 - Present",
+        "description": "Coding all the apps possible. On the way to coding the world! Building the GymCode Lab's as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "PHP",
+        "level": "83%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "98%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "STIF  (React JS)",
+        "category": "Finance",
+        "image": "stif.jpg",
+        "url": "https://stif.netlify.app/"
+      },
+      {
+        "title": "GOLDSTAR MUSIC   (React JS)",
+        "category": "Streaming Service",
+        "image": "goldstarmusic.png",
+        "url": "https://goldstarmusic.netlify.app/"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "E-commerce",
+        "image": "amazon.jpg",
+        "url": "https://youtu.be/l2LjccayotA"
+      },
+      {
+        "title": "TaaiDex (React JS)",
+        "category": "Defi-Web3-Dex",
+        "image": "taaidex.jpg",
+        "url": "https://taaidexv1.netlify.app/"
+      }
+      ,
+      {
+        "title": "Taai ( PHP )",
+        "category": "A.I",
+        "image": "taai.jpg",
+        "url": "https://trend-automator.000webhostapp.com/index.php"
+
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Marius is absolutely amazing, his depth of knowledge really meant a lot to us... I would definitely recommend working with him",
+        "user": "Jorge Floyd"
+      },
+      {
+        "text": "Working and Learning with Marius has been AWESOME, he makes learning so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Brenda Curtis"
+      }
+    ]
+  },
+  "Footer": {
+    "testimonials": [
+      {
+        "text": "Marius is absolutely amazing, his depth of knowledge really meant a lot to us... I would definitely recommend working with him",
+        "user": "Jorge Floyd"
+      },
+      {
+        "text": "Working and Learning with Marius has been AWESOME, he makes learning so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Brenda Curtis"
+      }
+    ]
+  }
+}

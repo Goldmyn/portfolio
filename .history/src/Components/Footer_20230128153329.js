@@ -2,6 +2,8 @@ import React from "react";
 
 const Footer = ({ data }) => {
   if (data) {
+    var footer = data.url;
+
     var networks = data.social.map(function (network) {
       return (
         <li key={network.name}>
@@ -20,9 +22,9 @@ const Footer = ({ data }) => {
           <ul className="social-links">{networks}</ul>
 
           <ul className="copyright">
-            <li>
+            <li key={}>
               Made by{" "}
-              <a title="Marius" href="https://gymcode.netlify.app">
+              <a title="Marius" href={footer.url}>
                 Marius
               </a>
             </li>
