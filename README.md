@@ -1,8 +1,8 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# GYMCODE Digital Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
+
+### <a href="https://gymcode.netify.app">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
@@ -50,8 +50,4 @@ Once all the formatting and data input is finalised, run `npm run build`. This w
 
 🚀 BOOM, you are now LIVE!!!
 
-## Credits
 
-##### Original Idea
-
-<a href="https://github.com/tbakerx/react-resume-template/blob/master/README.md">Inspiration from Tim Baker (tbakerx)</a>
