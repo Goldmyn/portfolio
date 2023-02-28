@@ -2,7 +2,7 @@
 
 
 
-### <a href="www.gymcode.netify.app">LIVE DEMO</a>
+### <a href="https://gymcode.netlify.app/">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
